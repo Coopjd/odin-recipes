@@ -13,6 +13,7 @@
     background-color: rgb(49, 198, 124);
     width: 350px;
     border: 8px solid red;
+    list-style: none;
 }
 
 
@@ -23,5 +24,6 @@
     color:mediumblue;
     padding: 10px 15px;
     height: 50px;
-    width: 300px
+    width: 300px;
+    margin: 8px;
 }
