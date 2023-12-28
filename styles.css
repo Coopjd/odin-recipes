@@ -2,11 +2,26 @@
     background-color: rgb(164, 65, 153);
     color: rgb(29, 28, 29);
     text-align: center;
+    border: 8px solid black;
     font-weight: 800;
     font-family: Georgia, "Times New Roman", serif
 }
 
 .recipes {
+    margin: 10px auto;
     font-size: 26px;
-    background-color: yellow
+    background-color: rgb(49, 198, 124);
+    width: 350px;
+    border: 8px solid red;
+}
+
+
+
+.buttons {
+    background-color: sienna;
+
+    color:mediumblue;
+    padding: 10px 15px;
+    height: 50px;
+    width: 300px
 }
